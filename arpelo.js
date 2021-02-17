@@ -11,8 +11,8 @@ function clean(text) {
         return text;
 }
 
-var prefix = "!";
-var token = "Token Buraya";
+var prefix = "r!";
+var token = "ODAzMjg1NDU3NDUwMTcyNDE3.YA7j4Q.FAiGL3Pm72BwquRlbkON1uOqaJY";
 
 client.on("ready", () => {
   console.log("Bu bot opensource bir projedir. http://github.com/arpelo");
